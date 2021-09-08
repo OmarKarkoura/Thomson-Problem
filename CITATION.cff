@@ -1,9 +1,0 @@
-# YAML 1.2
----
-authors: 
-  -
-    family-names: Botsch
-    given-names: Lukas
-cff-version: "1.1.0"
-message: "This a jupyter notebook which includes code to solve the Thomson Problem on a unit sphere. "
-...
